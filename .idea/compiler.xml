@@ -4,8 +4,8 @@
     <bytecodeTargetLevel>
       <module name="cookbook-java_main" target="1.8" />
       <module name="cookbook-java_test" target="1.8" />
-      <module name="logging_main" target="1.8" />
-      <module name="logging_test" target="1.8" />
+      <module name="error-reporting_main" target="1.8" />
+      <module name="error-reporting_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

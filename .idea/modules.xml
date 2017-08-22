@@ -5,9 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/cookbook-java.iml" filepath="$PROJECT_DIR$/.idea/modules/cookbook-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/cookbook-java_main.iml" filepath="$PROJECT_DIR$/.idea/modules/cookbook-java_main.iml" group="cookbook-java" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/cookbook-java_test.iml" filepath="$PROJECT_DIR$/.idea/modules/cookbook-java_test.iml" group="cookbook-java" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/logging.iml" filepath="$PROJECT_DIR$/.idea/modules/logging.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/logging_main.iml" filepath="$PROJECT_DIR$/.idea/modules/logging_main.iml" group="logging" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/logging_test.iml" filepath="$PROJECT_DIR$/.idea/modules/logging_test.iml" group="logging" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/error-reporting.iml" filepath="$PROJECT_DIR$/.idea/modules/error-reporting.iml" group="error-reporting" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/error-reporting/error-reporting_main.iml" filepath="$PROJECT_DIR$/.idea/modules/error-reporting/error-reporting_main.iml" group="error-reporting" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/error-reporting/error-reporting_test.iml" filepath="$PROJECT_DIR$/.idea/modules/error-reporting/error-reporting_test.iml" group="error-reporting" />
     </modules>
   </component>
 </project>

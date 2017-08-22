@@ -1,5 +1,5 @@
 # Java Cookbook
 
-- [Java Cloud Logging Recipe](https://labstack.com/cookbook/java-logging)
+- [Java Error Reporting Recipe](https://labstack.com/cookbook/java-error-reporting)
 
 
