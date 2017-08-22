@@ -26,6 +26,7 @@ public class App {
         });
 
         get("/error", (request, response) -> {
+            // Manually report non-fatal error
             try {
                 throw new Exception("non-fatal error");
             } catch (Exception e) {
@@ -37,6 +38,7 @@ public class App {
 
         // Error handler
         exception(RuntimeException.class, (exception, request, response) -> {
+            // Automatically report crash (fatal error)
             log.fatal(new Fields()
                     .add("message", exception.getMessage())
                     .add("stack_trace", Log.getStackTrace(exception)));
